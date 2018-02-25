@@ -1,9 +1,8 @@
-# qhadi-legatus-theme
+# quehaceradondeir
 
-Tema para wordpress
+Tema de wordpress para la página web QHADI.es, basado en el diseño del tema PRO Legatus y como base utilizando Underscores.
 
-Tema hijo del tema Legatus de WordPress. Estos son los objetivos:
+El tema es para una web de eventos, tipo magazine y debera tener las siguientes caracteristicas:
 
-1º.- Crear el childtheme qhadi-legatus-theme e incluir los archivos personalizados a mis necesidades.
-
-2º.- Ir adelgazando el tema Legatus y quitarle todo el codigo innecesario para mi instalación, además de ir modificando y actualizandolo.
+1º.- Diseño responsive.
+2º.- El layout es el clasico de Cabecera, contenido, barra lateral y pie de página.ndolo.
