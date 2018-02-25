@@ -5,4 +5,5 @@ Tema de wordpress para la página web QHADI.es, basado en el diseño del tema PR
 El tema es para una web de eventos, tipo magazine y debera tener las siguientes caracteristicas:
 
 1º.- Diseño responsive.
-2º.- El layout es el clasico de Cabecera, contenido, barra lateral y pie de página.ndolo.
+
+2º.- El layout es el clasico de cabecera, contenido, barra lateral y pie de página.ndolo.
