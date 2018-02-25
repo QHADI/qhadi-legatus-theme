@@ -6,4 +6,4 @@ El tema es para una web de eventos, tipo magazine y debera tener las siguientes 
 
 1º.- Diseño responsive.
 
-2º.- El layout es el clasico de cabecera, contenido, barra lateral y pie de página.ndolo.
+2º.- El layout es el clasico de cabecera, contenido, barra lateral y pie de página.
